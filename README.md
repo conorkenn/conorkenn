@@ -1,3 +1,3 @@
-<img src="assets\mashle-dance-mashle-s2.gif">
+<img src="assets\bg3.png">
 
 
