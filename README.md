@@ -1,3 +1,3 @@
-<img src="assets\bg3.png">
+<img src="assets\bg3.png" width="800">
 
 
